@@ -1,2 +1,2 @@
 # Curo
-healthcare analyzer
+Healthcare analyzer
